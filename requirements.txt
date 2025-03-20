@@ -1,0 +1,7 @@
+# Python dependencies list
+fastapi
+uvicorn
+numpy
+pandas
+tensorflow
+scikit-learn

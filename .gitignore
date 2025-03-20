@@ -1,0 +1,6 @@
+# Ignore node_modules and Python virtual environment
+dist/
+node_modules/
+__pycache__/
+*.pyc
+.env
